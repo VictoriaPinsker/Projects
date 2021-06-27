@@ -1,1 +1,5 @@
 # Sephora Recommendation Engine
+
+Sephora is a multinational retailer of personal care and beauty products. It is arguably the most popular beauty retailer in the world. My main goal for the project was to help Sephora customers with making decisions on purchasing products from the online store by recommending other useful products as well as similar products that they would be interested in purchasing. Another goal of mine is to show that social network analysis is a valid tool in constructing a product recommendation engine.
+
+The way the engine is implemented is when a customer selects a product on Sephora’s website, they will receive a set recommendations of additional products that they should be interested in purchasing. These recommendations could be similar products that help customers discover new brands or different products that will pair well with what they are already interested in purchasing. A successful implementation of this project will potentially help the company increase its sales and customer satisfaction through being able to provide useful product recommendations to customers.
